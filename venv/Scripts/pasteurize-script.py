@@ -1,4 +1,4 @@
-#!c:\users\מכüדא\documents\django\venv\scripts\python.exe
+#!c:\users\מכüדא\documents\tasktracker_dj\venv\scripts\python.exe
 # EASY-INSTALL-ENTRY-SCRIPT: 'future==0.18.2','console_scripts','pasteurize'
 import re
 import sys
